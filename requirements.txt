@@ -1,0 +1,5 @@
+mistralai
+faiss-cpu
+python-dotenv
+rank-bm25
+tqdm

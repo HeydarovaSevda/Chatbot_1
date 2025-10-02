@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment files (API keys, secrets)
+.env
+*.env
+MISTRAL_API_KEY.env
